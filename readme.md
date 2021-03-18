@@ -1,5 +1,7 @@
 # RESTful Dinos (Lab)
 
+Homework using GET and POST to render pictures of dinosaurs.
+
 So far, we've only been rendering views, which is why we've been using GET for all of our routes. Now that we're working with data, we'll start to see how the other HTTP verbs come into play. Here we will focus on `GET` and `POST`.
 
 ## Objectives: Learning GET & POST
